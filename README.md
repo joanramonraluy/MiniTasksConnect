@@ -17,7 +17,7 @@ Global scalability: Anyone with access to a mobile device can join, creating a d
   <p>Other users can review and accept tasks suited to their abilities. The smart contract locks the reward until task verification.</p>
 
   <li> Decentralized validation: </li>
-  <p>If it's necessary a community verifies whether a task has been completed correctly. A reputation system can motivates validators to act honestly.</p>
+  <p>If it's necessary, a community verifies whether a task has been completed correctly. A reputation system can motivate validators to act honestly.</p>
 
   <li> Automatic payment: </li> 
   <p>If the task is approved, the smart contract releases the reward.</p>
