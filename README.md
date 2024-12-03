@@ -1,7 +1,7 @@
 # MiniTasksConnect
 Create a global platform for completing microtasks, such as short translations, image tagging, or information verification, where any user can participate and be rewarded with Minima Coins.
 
-<h2> Whhy is it interesting on Minima? </h2>
+<h2> Why is it interesting on Minima? </h2>
 Mobile accessibility: Thanks to Minima's lightweight design, even people with modest devices can participate.
 Full decentralization: Tasks can be managed directly between users without intermediaries.
 Instant and cost-efficient payments: Using Minima Coins enables microtransactions with minimal fees.
